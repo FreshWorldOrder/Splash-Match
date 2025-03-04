@@ -1,0 +1,6 @@
+Vedic1 = x
+Vedic2 = x+4
+Match == Vedic1 = Vedic2
+
+#based and options:
+check social platform x, #smatch
